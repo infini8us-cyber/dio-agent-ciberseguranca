@@ -55,7 +55,7 @@ Agora você vai baixar este repositório para o seu computador. Escolha a forma 
 **Opção A: com Git** (se você já usa Git)
 
 ```bash
-git clone https://github.com/digitalinnovationone/dio-agent.git
+git clone https://github.com/infini8us-cyber/dio-agent-ciberseguranca.git
 ```
 
 **Opção B: baixando o .zip** (se você não usa Git)
@@ -109,12 +109,12 @@ Não precisa de comando especial nem de formato perfeito: o agente conduz a conv
 
 Uma **skill** é uma habilidade do agente, descrita em um guia passo a passo. Além das skills originais, este projeto acrescenta a análise de vulnerabilidades:
 
-|| Skill | Para que serve |
-||-------|----------------|
-|| [Plano de estudos](skills/study-plan/SKILL.md) | Organiza o que estudar, em que ordem e em quanto tempo |
-|| [Destravar desafio](skills/unblock-challenge/SKILL.md) | Conduz você até a solução de um desafio, sem dar a resposta pronta |
-|| [Explicar conceito](skills/explain-concept/SKILL.md) | Explica conceitos de forma didática, com analogias e exemplos |
-|| [Análise de vulnerabilidade](skills/vulnerability-analysis/SKILL.md) | Analisa falhas de segurança, estima riscos e produz relatório padrão |
+| Skill | Para que serve |
+|-------|----------------|
+| [Plano de estudos](skills/study-plan/SKILL.md) | Organiza o que estudar, em que ordem e em quanto tempo |
+| [Destravar desafio](skills/unblock-challenge/SKILL.md) | Conduz você até a solução de um desafio, sem dar a resposta pronta |
+| [Explicar conceito](skills/explain-concept/SKILL.md) | Explica conceitos de forma didática, com analogias e exemplos |
+| [Análise de vulnerabilidade](skills/vulnerability-analysis/SKILL.md) | Analisa falhas de segurança, estima riscos e produz relatório padrão |
 
 Você não precisa "chamar" uma skill. O agente percebe o que você precisa e usa a skill certa sozinho.
 
