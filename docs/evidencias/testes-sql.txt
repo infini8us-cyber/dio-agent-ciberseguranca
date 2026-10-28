@@ -1,0 +1,11 @@
+Execução real: 2026-10-28T14:15:50.2583326-03:00
+Comando: python -B -m unittest test_sql_injection -v
+test_injetar_sql_pela_corrigida (test_sql_injection.TesteSQLInjection.test_injetar_sql_pela_corrigida) ... ok
+test_injetar_sql_pela_vulneravel (test_sql_injection.TesteSQLInjection.test_injetar_sql_pela_vulneravel) ... ok
+test_login_valido_aceito (test_sql_injection.TesteSQLInjection.test_login_valido_aceito) ... ok
+test_senha_incorreta_recusada (test_sql_injection.TesteSQLInjection.test_senha_incorreta_recusada) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK

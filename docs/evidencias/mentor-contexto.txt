@@ -1,0 +1,11 @@
+Registro real do Hermes — 28/10/2026
+Modelo: solar-mini4:free (configuração existente)
+Extração: pergunta e resposta final; diagnóstico intermediário omitido, resposta preservada.
+
+Query: Use a skill skills/vulnerability-analysis/SKILL.md deste projeto. Tenho 
+um servidor Ubuntu e quero analisar vulnerabilidades. Por onde começo?
+
+RESPOSTA DO MENTOR
+Segundo o fluxo da skill, começo perguntando sobre o ambiente (o primeiro item ausente). Me diz:1. Esse servidor Ubuntu é local (lab na sua máquina), remoto (cloud/Hetzner/VPS) ou de um ambiente de produção?2. O que ele executa no momento (navegador WEB, API, banco de dados, proxy, contêineres…)?3. Você tem login/root direto ou só acesso por um serviço/usuário?Aqui só preciso disso para definir o escopo — sem precisar de mais nada por enquanto.
+
+Session:        local-7e953fbcf9ff6ad4d0ac0408297123c344b3450a04e64ab2e1b3ed8540215c78
